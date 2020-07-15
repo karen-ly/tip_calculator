@@ -40,7 +40,7 @@ Some challenges include navigating through the newer version of Xcode where the 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Karen Ly - CodePath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
